@@ -1,0 +1,6 @@
+@article{REPO206,
+    author = "Zhang, Zicheng and Sun, Wei and Min, Xiongkuo and Zhou, Quan and He, Jun and Wang, Qiyuan and Zhai, Guangtao",
+    journal = "arXiv preprint arXiv:2209.00244",
+    title = "{MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment}",
+    year = "2022"
+}
